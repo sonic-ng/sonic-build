@@ -10,3 +10,9 @@
 [submodule "crossdb-python"]
 	path = crossdb-python
 	url = https://github.com/crossdb-org/crossdb-python.git
+[submodule "sonic-cli"]
+	path = sonic-cli
+	url = https://github.com/sonic-ng/sonic-cli.git
+[submodule "sonic-osmgr"]
+	path = sonic-osmgr
+	url = https://github.com/sonic-ng/sonic-osmgr.git
