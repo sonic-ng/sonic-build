@@ -1,24 +1,18 @@
 [submodule "sonic-schema"]
 	path = sonic-schema
 	url = https://github.com/sonic-ng/sonic-schema.git
-	branch = main
 [submodule "sonic-sysdb"]
 	path = sonic-sysdb
 	url = https://github.com/sonic-ng/sonic-sysdb.git
-	branch = main
 [submodule "crossdb"]
 	path = crossdb
 	url = https://github.com/crossdb-org/crossdb.git
-	branch = main
 [submodule "crossdb-python"]
 	path = crossdb-python
 	url = https://github.com/crossdb-org/crossdb-python.git
-	branch = main
 [submodule "sonic-cli"]
 	path = sonic-cli
 	url = https://github.com/sonic-ng/sonic-cli.git
-	branch = main
 [submodule "sonic-osmgr"]
 	path = sonic-osmgr
 	url = https://github.com/sonic-ng/sonic-osmgr.git
-	branch = main
